@@ -1,0 +1,22 @@
+C:\Users\G.Walker\Desktop\Sender\bin\Debug\Sender.exe.config
+C:\Users\G.Walker\Desktop\Sender\bin\Debug\Sender.exe
+C:\Users\G.Walker\Desktop\Sender\bin\Debug\Sender.pdb
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.csproj.AssemblyReference.cache
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.csproj.SuggestedBindingRedirects.cache
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.Form1.resources
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.Properties.Resources.resources
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.csproj.GenerateResource.cache
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.exe
+C:\Users\G.Walker\Desktop\Sender\obj\Debug\Sender.pdb
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.exe
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.pdb
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\bin\Debug\Sender.exe.config
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\bin\Debug\Sender.exe
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\bin\Debug\Sender.pdb
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.csproj.AssemblyReference.cache
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.csproj.SuggestedBindingRedirects.cache
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.Form1.resources
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.Properties.Resources.resources
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.csproj.GenerateResource.cache
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
