@@ -1,0 +1,22 @@
+C:\Users\G.Walker\Desktop\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\G.Walker\Desktop\Receiver\bin\Debug\Receiver.exe
+C:\Users\G.Walker\Desktop\Receiver\bin\Debug\Receiver.pdb
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.csproj.AssemblyReference.cache
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.Form1.resources
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.Properties.Resources.resources
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.csproj.GenerateResource.cache
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.exe
+C:\Users\G.Walker\Desktop\Receiver\obj\Debug\Receiver.pdb
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.exe
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.pdb
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\bin\Debug\Receiver.exe.config
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\bin\Debug\Receiver.exe
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\bin\Debug\Receiver.pdb
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.csproj.AssemblyReference.cache
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.csproj.SuggestedBindingRedirects.cache
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.Form1.resources
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.Properties.Resources.resources
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.csproj.GenerateResource.cache
+D:\Work\FCI\4th Year\Second Semester\Network Programming\Task#1\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
