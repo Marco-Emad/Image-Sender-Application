@@ -1,6 +1,6 @@
 # Image-Sender-Application
 
-Simple Image sender application between two clients
+Simple Image sender application between two clients using C# language and Windows Form app
 
 how to use the app:
 
